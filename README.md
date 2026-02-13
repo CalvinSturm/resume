@@ -1,14 +1,14 @@
 # Calvin Sturm
-**Full-Stack Engineer | AI Systems & Video Architecture** [calvinasturm@gmail.com](mailto:calvinasturm@gmail.com) | 805-994-9570  
+**AI Performance Architect | Rust & CUDA Video Systems** [calvinasturm@gmail.com](mailto:calvinasturm@gmail.com) | 805-994-9570  
 San Luis Obispo, CA | [LinkedIn](https://www.linkedin.com/in/calvinsturm) | [GitHub](https://github.com/CalvinSturm)
 
 ---
 
 ## TECHNICAL ARCHITECTURE
-- **Systems & Infrastructure:** Rust (Tauri), Python (PyTorch), TypeScript, Java, C.
-- **AI/ML Deployment:** Local LLM Orchestration (Llama 3, Mistral), Ollama, Quantization (GGUF/EXL2), Faster-Whisper, Computer Vision (CUDA).
-- **Data & Performance:** Shared Memory/IPC, Zero-copy data transfer, Multi-threading (SharedArrayBuffer), PixiJS.
-- **Workflow Automation:** Salesforce, Outreach, Technical Discovery, Full-cycle GTM.
+- **Systems & Engine Design:** Rust (Tauri), TypeScript, Python (PyTorch), Java, C.
+- **AI/ML Deployment:** Local LLM/VLM Orchestration (Gemma-3, Qwen3-VL, Devstral, Voxtral), Agentic Reasoning Models, Extreme Quantization (GGUF, IQ4_XS, Q3-Q8_0), Multi-modal Projectors (mmproj), Real-time Voice/Inference (Voxtral).
+- **Performance & GPU:** CUDA Kernels, Zero-copy Shared Memory (IPC), Multi-threading (SharedArrayBuffer), PixiJS.
+- **DevOps & Deployment:** Docker, Conda/Venv, Python Executable Bundling (PyInstaller), GitHub Actions (CI/CD).
 
 ---
 
@@ -16,25 +16,20 @@ San Luis Obispo, CA | [LinkedIn](https://www.linkedin.com/in/calvinsturm) | [Git
 
 ### Independent Software Developer | AI Systems & Video Processing
 *Dec 2024 – Present*
-- **VideoForge (Rust/Tauri):** Engineered a deterministic AI video upscaling engine; implemented **Shared Memory for zero-copy data transfer**, reducing end-to-end frame latency by **~60%** by eliminating CPU-GPU round-trips between Rust and Python (PyTorch) processes.
-- **OmniBabel:** Developed a real-time AI audio translator utilizing system-level audio loopback and a transparent overlay, enabling **sub-100ms translation** of on-screen content via Faster-Whisper.
-- **DNA-AI:** Architected a privacy-first genetic analyzer using **local Llama 3** to process complex ClinVar data entirely offline, ensuring 100% data sovereignty for sensitive genomic datasets.
-- **Face Swap & Blur:** Built a CUDA-accelerated video processor for NVIDIA RTX GPUs; optimized producer-consumer queues to maintain **60FPS real-time performance** during live inference.
+- **VideoForge (Rust/Tauri):** Engineered a deterministic AI video upscaling engine; implemented **Shared Memory for zero-copy data transfer**, reducing end-to-end frame latency by **~60%** by eliminating CPU-GPU round-trips.
+- **OmniBabel:** Developed a real-time AI audio translator utilizing system-level audio loopback and a transparent overlay, enabling **sub-100ms translation** of on-screen content.
+- **Model Optimization Lab:** Benchmarked and deployed **20+ local architectures** (including Gemma-3 12B and Qwen3-VL); optimized VRAM efficiency using **Extreme Quantization (IQ1_M to Q8_0)**.
+- **Face Swap & Blur:** Built a CUDA-accelerated video processor for NVIDIA RTX GPUs; optimized producer-consumer queues to maintain **60FPS real-time performance**.
 
 ### Technical Sales Consultant | Cellular Sales
 *Feb 2024 – Feb 2025*
 - **Revenue Optimization:** Consistently achieved **125% of monthly sales quota** by translating complex hardware and network specifications into actionable B2B value propositions.
-- **Strategic Discovery:** Led deep-dive technical sessions to identify infrastructure pain points, resulting in tailored hardware and SaaS solutions for enterprise clients.
+- **Strategic Discovery:** Led deep-dive technical sessions to identify infrastructure pain points and scope tailored hardware/SaaS solutions.
 
 ### STEM Educator & SPED Case Manager | Lucia Mar Unified School District
 *2021 – 2023*
-- **Cross-Functional Leadership:** Facilitated IEP alignment meetings between administrators, medical specialists, and families, resolving conflicting stakeholder goals to meet 100% of state compliance metrics.
-- **Data-Driven Instruction:** Developed adaptive math curricula based on real-time performance analytics to accommodate diverse neurodivergent learning profiles.
-
-### Web Developer / Webmaster | University of California, San Diego
-*2016 – 2017*
-- **Infrastructure Maintenance:** Managed university web properties using HTML, CSS, and JavaScript, ensuring 99.9% uptime and strict accessibility (WCAG) compliance.
-- **Technical Liaison:** Acted as the primary bridge between technical engineering teams and non-technical departments to translate organizational requirements into functional digital assets.
+- **Cross-Functional Leadership:** Facilitated IEP alignment meetings, resolving conflicting stakeholder goals to meet 100% of state compliance metrics.
+- **Data-Driven Instruction:** Developed adaptive math curricula based on real-time performance analytics for neurodivergent learning profiles.
 
 ---
 
